@@ -1,0 +1,48 @@
+
+
+.navbar
+{
+    background-color: white;
+    height: 8rem;
+}
+
+.navbar-item
+{
+
+    font-family: "Helvetica";
+    color: black;
+    font-size: 25px;
+    padding-right: 30px;
+
+}
+.navbar-item:hover
+{
+    background-color: white;
+    color: lightblue;
+}
+
+.navbar-link
+{
+    color: black;
+    background-color: white;
+}
+.navbar-link:hover
+{
+    background-color: white;
+    color: lightblue;
+}
+
+.navbar-end
+{
+    position: relative;
+    top: 20px;
+
+}
+
+.navbar-start
+{
+    position: relative;
+    top: 31px;
+    right: -1040px;
+
+}

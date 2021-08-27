@@ -1,0 +1,47 @@
+.footer
+{
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    height: 29rem;
+
+}
+
+#botNav{
+    font-family: "Helvetica";
+    font-size: 40px;
+    background-color: lightblue;
+    box-shadow: none;
+   
+}
+.active
+{
+    color: white;
+    padding-right: 50px;
+}
+
+#about
+{
+    color: white;
+    padding-right: 50px;
+
+}
+#contact
+{
+    color: white;
+    padding-right: 50px;
+
+}
+
+.icon
+{
+    position: relative;
+    top: 5px;
+    right: 9px;
+    font-size: 50px;
+    color: white;
+    padding-right: 107px;
+
+}

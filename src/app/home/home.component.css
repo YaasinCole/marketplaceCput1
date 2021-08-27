@@ -1,0 +1,155 @@
+#sec
+{
+    height: 60rem;
+   
+}
+
+.section
+{
+    height: 75rem;
+    width: 100%;
+   
+}
+
+#img1
+{
+    opacity: 0.3;
+    position: relative;
+    right: -273px;
+    width: 125rem;
+    height: 60rem;
+}
+
+#heading1
+{
+    
+    font-family: "Helvetica";
+    color: black;
+    font-size: 87px;
+    position: relative;
+    right: -824px;
+    bottom: 591px;
+}
+
+#second{
+    background-color: lightblue;
+}
+
+#copy1{
+    box-shadow: none;
+    position: relative;
+    width: 1000px;
+    top: 319px;
+    font-size: 35px;
+}
+#img2{
+    position: relative;
+    width: 1054px;
+    right: -1220px;
+    top: -194px;
+}
+#img3{
+    position: relative;
+    top: 187px;
+    width: 600px;
+}
+
+#img4{
+    position: relative;
+    top: 187px;
+    right: -277px;
+    width: 600px;
+}
+
+#img5{
+    position: relative;
+    top: 187px;
+    width: 600px;
+    right: -546px;
+}
+
+#copy2{
+    box-shadow: none;
+    position: relative;
+    width: 553px;
+    top: 184px;
+    right: -21px;
+    font-size: 35px;
+}
+#copy3{
+    box-shadow: none;
+    position: relative;
+    width: 553px;
+    top: 12px;
+    right: -895px;
+    font-size: 35px;
+}
+
+#copy4{
+    box-shadow: none;
+    position: relative;
+    width: 553px;
+    top: -158px;
+    right: -1771px;
+    font-size: 35px;
+}
+
+#cat{
+    font-family: "Helvetica";
+    color: black;
+    position: relative;
+    font-size: 72px;
+}
+
+#cat1{
+    font-family: "Helvetica";
+    background-color: lightblue;
+    color: black;
+    position: relative;
+    width: 500px;
+    right: -41px;
+    top: 200px;
+    font-size: 49px;
+    box-shadow: none;
+}
+#bo{
+    width: 800px;
+}
+
+
+#cat2{
+    font-family: "Helvetica";
+    background-color: lightblue;
+    color: black;
+    position: relative;
+    width: 500px;
+    font-size: 49px;
+    right: -1814px;
+    top: -264px;
+    box-shadow: none;
+}
+#lM{
+    width: 800px;
+}
+#cat3{
+    font-family: "Helvetica";
+    background-color: lightblue;
+    color: black;
+    position: relative;
+    width: 500px;
+    right: -900px;
+    top: -783px;
+    font-size: 49px;
+    box-shadow: none;
+}
+#tut{
+    width: 800px;
+}
+#text{
+    font-size: 49px;
+    box-shadow: none;
+    font-family: "Helvetica";
+    background-color: lightblue;
+    position: relative;
+    top: -663px;
+}
